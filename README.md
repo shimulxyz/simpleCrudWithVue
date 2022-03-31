@@ -1,1 +1,1 @@
-# simpleCrudWithVue
+# This is a simple crud with vue and laravel
